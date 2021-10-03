@@ -1,0 +1,6 @@
+.footer__link_container {
+  display: flex;
+  height: 18px;
+  width: 465px;
+  justify-content: space-between;
+}

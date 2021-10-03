@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 90%;
+  margin: 28px 48px 48px;
+  flex-direction: row;
+  justify-content: last baseline;
+  align-items: flex-start;
+}
+
+@media (max-width: 1280px) {
+  .header {
+    width: 1184px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .header {
+    width: 928px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    width: 720px;
+  }
+}
+
+@media (max-width: 320px) {
+  .header {
+    width: 288px;
+  }
+}

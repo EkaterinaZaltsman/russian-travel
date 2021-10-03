@@ -1,0 +1,7 @@
+.place{
+  margin: auto;
+  display: flex;
+  margin-bottom: 80px;
+  max-width: 984px;
+  height: 100%;
+}
