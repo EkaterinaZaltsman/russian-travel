@@ -4,4 +4,4 @@
 
 Технологии, используемые в верстке: CSS+HTML.
 
-Ссылка GitHub: https://github.com/EkaterinaZaltsman/Traveler
+Ссылка GitHub: https://github.com/EkaterinaZaltsman/russian-travel.git
